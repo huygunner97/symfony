@@ -1,0 +1,8 @@
+easy_admin:
+    entities:
+        Customer:
+            class: App\Entity\Customer
+        Order:
+            class: App\Entity\Order
+        Product:
+            class: App\Entity\Product
